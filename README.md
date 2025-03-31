@@ -1,16 +1,18 @@
-## Hi there 👋
+![Bannière de mon profil GitHub](header.png)
 
-<!--
-**MB7M/MB7M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **deploying infrastructure projects**, **documenting IT processes**, and **building training environments on Proxmox**  
+🌱 I’m currently learning more about **Azure** & **automation with Ansible**  
+👯 I’m looking to collaborate on **infrastructure modernization**, **workstation deployments**, and **cloud-based** IT environments  
+💬 Ask me about **Windows Server**, **Debian 12**, **PowerShell**, **Bash**, **LAN**, **VPN**, **SSH**  
+or how I bring **structure**, **clarity** and **coordination** to **IT projects**.  
+📫 How to reach me: mbits@outlook.fr — also on [LinkedIn](https://www.linkedin.com/in/mb7m/) and [my portfolio](https://mbits.vercel.app)  
 
-Here are some ideas to get you started:
+---  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎉 Latest project pushed: [Deployment of an AD infrastructure on a private cloud](https://github.com/MB7M/Infra-ad-proxmox)  
+🛠️ Coming soon: automated workstation deployment using WDS  
+
+---  
+
+📕 Latest Blog Posts: [Documenting your IT projects: waste of time or pro reflex?](https://mbits.vercel.app/blog/docu-it)   
+➡️ [All blog posts](https://mbits.vercel.app/blog)
