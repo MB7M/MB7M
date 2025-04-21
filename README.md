@@ -9,8 +9,9 @@ or how I bring **structure**, **clarity** and **coordination** to **IT projects*
 
 ---  
 
-🎉 Latest project pushed: [Deployment of an AD infrastructure on a private cloud](https://github.com/MB7M/Infra-ad-proxmox)  
-🛠️ Coming soon: automated workstation deployment using WDS  
+🎉 Latest project pushed: [Automated Windows Workstation Deployment via PXE + WDS](https://github.com/MB7M/wds-pxe-proxmox)  
+🛠️ Coming soon: full MDT integration for Windows 11 deployment sequences  
+🔗 Related: [Deployment of an AD infrastructure on a private cloud](https://github.com/MB7M/Infra-ad-proxmox)
 
 ---  
 
