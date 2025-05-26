@@ -9,13 +9,20 @@ or how I bring **structure**, **clarity** and **coordination** to **IT projects*
 
 ---  
 
-🎉 Latest project pushed: [Automated Windows 11 Deployment via MDT + WDS](https://github.com/MB7M/mdt-pxe-proxmox)
+🎉 Latest project pushed  
+[Automated deployment of GLPI with Ansible on Debian 12](https://github.com/MB7M/Ansible-glpi-debian12)
 
-🔗 Related:  
+---
+
+🔗 Related projects  
+- [Automated Windows 11 Deployment via MDT + WDS](https://github.com/MB7M/mdt-pxe-proxmox)  
 - [PXE + WDS boot infrastructure](https://github.com/MB7M/wds-pxe-proxmox)  
 - [Deployment of an AD infrastructure on a private cloud](https://github.com/MB7M/Infra-ad-proxmox)
 
----  
+---
 
-📕 Latest Blog Posts: [Documenting your IT projects: waste of time or pro reflex?](https://mbits.vercel.app/blog/docu-it)   
+📕 Latest Blog Posts  
+- [Is AI changing how we build infrastructure?](https://mbits.vercel.app/blog/infra-ia)   
+- [Documenting your IT projects: waste of time or pro reflex?](https://mbits.vercel.app/blog/docu-it)  
 ➡️ [All blog posts](https://mbits.vercel.app/blog)
+
