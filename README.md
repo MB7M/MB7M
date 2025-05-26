@@ -10,7 +10,8 @@ or how I bring **structure**, **clarity** and **coordination** to **IT projects*
 ---  
 
 🎉 Latest project pushed  
-[Automated deployment of GLPI with Ansible on Debian 12](https://github.com/MB7M/Ansible-glpi-debian12)
+
+- [Automated deployment of GLPI with Ansible on Debian 12](https://github.com/MB7M/Ansible-glpi-debian12)
 
 ---
 
@@ -23,6 +24,7 @@ or how I bring **structure**, **clarity** and **coordination** to **IT projects*
 
 📕 Latest Blog Posts  
 - [Is AI changing how we build infrastructure?](https://mbits.vercel.app/blog/infra-ia)   
-- [Documenting your IT projects: waste of time or pro reflex?](https://mbits.vercel.app/blog/docu-it)  
+- [Documenting your IT projects: waste of time or pro reflex?](https://mbits.vercel.app/blog/docu-it)    
+
 ➡️ [All blog posts](https://mbits.vercel.app/blog)
 
